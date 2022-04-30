@@ -37,3 +37,5 @@ Running Flask
 9. Open the [flask_link] and see the response you wrote in application.py
 10. We can create a get request by creating another function and routing it, then save it and it automatically will be updated in the link (We need to add the route to the link)
 
+This information was created following the class:
+https://www.youtube.com/watch?v=qbLc5a9jdXo
